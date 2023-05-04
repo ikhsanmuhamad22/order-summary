@@ -100,9 +100,3 @@ p {
 .button-section h4 {
     cursor: pointer;
 }
-
-@media (man-width : 700px) {
-    body {
-        background: url(images/pattern-background-mobile.svg);
-    }
-}
